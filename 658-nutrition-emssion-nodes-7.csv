@@ -1,0 +1,47 @@
+Id,Label,size,x-o,y-o,x-d,y-d,Category,Sub-category,"Protein per 100g serving, g"
+Prawn,Prawn,10,0,-140,0,0,Animal,Seafood,15.55
+Cod,Cod,10,0,-130,10,-10,Animal,Seafood,16.1
+Pork sausage,Pork sausage,10,0,-120,20,-20,Animal,Red,18.2
+Chicken thigh,Chicken thigh,10,0,-100,30,-30,Animal,White,18.6
+Lamb leg,Lamb leg,10,0,-110,40,-40,Animal,Red,18.6
+Beef steak,Beef steak,10,0,-90,50,-50,Animal,Red,18.7
+Tuna,Tuna,10,0,-80,60,-60,Animal,Seafood,19
+Salmon,Salmon,10,0,-70,70,-70,Animal,Seafood,20.3
+Beef burger,Beef burger,10,0,-60,80,-80,Animal,Red,20.4
+Pork loin,Pork loin,10,0,-50,90,-90,Animal,Red,21.1
+Chicken breast,Chicken breast,10,0,-40,100,-100,Animal,White,22.5
+Chicken wing,Chicken wing,10,0,-30,110,-110,Animal,White,23.4
+Pork chop,Pork chop,10,0,-20,120,-120,Animal,Red,26.97
+Lamb chop,Lamb chop,10,0,-10,130,-130,Animal,Red,27.36
+Bacon,Bacon,10,0,0,140,-140,Animal,Red,40.9
+Butter,Butter,10,100,-80,170,-310,Dairy,Cow,1
+Cow's milk,Cow's milk,10,100,-90,170,-300,Dairy,Cow,3.27
+Yogurt,Yogurt,10,100,-100,170,-290,Dairy,Cow,3.82
+Ricotta cheese,Ricotta cheese,10,100,-110,170,-280,Dairy,Cheese,7.81
+Cottage cheese,Cottage cheese,10,100,-120,170,-270,Dairy,Cheese,11.6
+Egg,Egg,10,100,-130,170,-260,Dairy,Egg,12.4
+Feta cheese,Feta cheese,10,100,-140,170,-250,Dairy,Cheese,19.7
+Camembert,Camembert,10,100,-150,170,-240,Dairy,Cheese,19.8
+Brie,Brie,10,100,-160,170,-230,Dairy,Cheese,20.8
+Blue cheese,Blue cheese,10,100,-170,170,-220,Dairy,Cheese,21.4
+Goat's cheese,Goat's cheese,10,100,-180,170,-210,Dairy,Cheese,21.58
+Cheddar cheese,Cheddar cheese,10,100,-190,170,-200,Dairy,Cheese,23.3
+Mozzarella cheese,Mozzarella cheese,10,100,-200,170,-190,Dairy,Cheese,23.7
+Halloumi cheese,Halloumi cheese,10,100,-210,170,-180,Dairy,Cheese,24
+Parmesan cheese,Parmesan cheese,10,100,-220,170,-170,Dairy,Cheese,29.6
+Mushroom,Mushroom,10,200,-150,350,10,Plant-based,Vegetable,2.75
+Kale,Kale,10,200,-140,340,0,Plant-based,Vegetable,2.92
+Garden peas,Garden peas,10,200,-130,330,-10,Plant-based,Vegetable,4.71
+Popcorn,Popcorn,10,200,-120,320,-20,Plant-based,Grain,12.9
+Quinoa,Quinoa,10,200,-110,310,-30,Plant-based,Grain,14.1
+Walnuts,Walnuts,10,200,-100,300,-40,Plant-based,Nut,14.6
+Chia seeds,Chia seeds,10,200,-90,290,-50,Plant-based,Seed,17
+Tofu,Tofu,10,200,-80,280,-60,Plant-based,Grain,17.3
+Cashews,Cashews,10,200,-70,270,-70,Plant-based,Nut,17.4
+Sunflower seeds,Sunflower seeds,10,200,-60,260,-80,Plant-based,Seed,18.9
+Chickpeas,Chickpeas,10,200,-50,250,-90,Plant-based,Legumes,21.3
+Almonds,Almonds,10,200,-40,240,-100,Plant-based,Nut,21.4
+Peanuts,Peanuts,10,200,-30,230,-110,Plant-based,Nut,23.2
+Lentils,Lentils,10,200,-20,220,-120,Plant-based,Legumes,23.6
+Beans,Beans,10,200,-10,210,-130,Plant-based,Legumes,26.8
+Pumpkin seeds,Pumpkin seeds,10,200,0,200,-140,Plant-based,Seed,29.9

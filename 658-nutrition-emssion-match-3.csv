@@ -1,0 +1,51 @@
+Entity,Entity USDA,NDB Number,fdc_id,Food Code,source,Category,Sub-category
+Cod,"Fish, cod, Atlantic, wild caught, raw",100328,2684444,,foundation,Animal,Fish
+Lentils,"Lentils, dry",100312,2644283,,foundation,Plant-based,Grain
+Chickpeas,"Chickpeas, (garbanzo beans, bengal gram), dry",100311,2644282,,foundation,Plant-based,Grain
+Beef steak,"Beef, ribeye, steak, boneless, choice, raw",100306,2646172,,foundation,Animal,Red
+Chicken thigh,"Chicken, thigh, boneless, skinless, raw",100305,2646171,,foundation,Animal,White
+Chicken breast,"Chicken, breast, boneless, skinless, raw",100304,2646170,,foundation,Animal,White
+Pork loin,"Pork, loin, boneless, raw",100302,2646168,,foundation,Animal,Red
+Rice,"Rice, white, long grain, unenriched, raw",20444,2512381,,foundation,Plant-based,Grain
+Quinoa,"Quinoa, uncooked",20035,168874,,legacy,Plant-based,Grain
+Popcorn,"Snacks, popcorn, air-popped",19034,167959,,legacy,Plant-based,Grain
+Lamb leg,"Lamb, New Zealand, imported, leg chop/steak, bone-in, separable lean and fat, raw",17072,174342,,legacy,Animal,Red
+Beans,"Beans, Dry, Tan (0% moisture)",16504,747434,,foundation,Plant-based,Grain
+Tofu,"Tofu, raw, firm, prepared with calcium sulfate",16426,172475,,legacy,Plant-based,Soy
+Soy milk,"Soy milk, unsweetened, plain, shelf stable",16222,1999630,,foundation,Plant-based,Soy
+Peanuts,"Peanuts, raw",16087,2515376,,foundation,Plant-based,Nut
+Salmon,"Fish, salmon, Atlantic, farm raised, raw",15236,2684441,,foundation,Animal,Fish
+Tuna,"Fish, tuna, light, canned in water, drained solids",15121,334194,,foundation,Animal,Fish
+Walnuts,"Nuts, walnuts, English, halves, raw",12155,2346394,,foundation,Plant-based,Nut
+Pecan nuts,"Nuts, pecans, halves, raw",12142,2346395,,foundation,Plant-based,Nut
+Cashews,"Nuts, cashew nuts, raw",12087,2515374,,foundation,Plant-based,Nut
+Almonds,"Nuts, almonds, whole, raw",12061,2346393,,foundation,Plant-based,Nut
+Sunflower seeds,"Seeds, sunflower seed, kernel, raw",12036,2515381,,foundation,Plant-based,Seed
+Pumpkin seeds,"Seeds, pumpkin seeds (pepitas), raw",12014,2515380,,foundation,Plant-based,Seed
+Chia seeds,"Chia seeds, dry, raw",12006,2710819,,foundation,Plant-based,Grain
+Mushroom,"Mushroom, portabella",11243,2003598,,foundation,Plant-based,Vegetable
+Kale,"Kale, raw",11233,323505,,foundation,Plant-based,Vegetable
+Bacon,"Pork, cured, bacon, cooked, restaurant",10896,749420,,foundation,Animal,Red
+Pork sausage,"Sausage, Italian, pork, mild, cooked, pan-fried",7089,746780,,foundation,Animal,Red
+Chicken wing,"Chicken, broiler, rotisserie, BBQ, wing, meat and skin",5362,172830,,legacy,Animal,White
+Butter,"Butter, stick, unsalted",1145,789828,,foundation,Dairy,Cow
+Egg,"Eggs, Grade A, Large, egg whole",1123,748967,,foundation,Dairy,Egg
+Yogurt,"Yogurt, plain, whole milk",1116,2259793,,foundation,Dairy,Cow
+Cow's milk,"Milk, whole, 3.25% milkfat, with added vitamin D",1077,746782,,foundation,Dairy,Cow
+Ricotta cheese,"Cheese, ricotta, whole milk",1036,746766,,foundation,Dairy,Cheese
+Parmesan cheese,"Cheese, parmesan, grated",1032,325036,,foundation,Dairy,Cheese
+Mozzarella cheese,"Cheese, mozzarella, low moisture, part-skim",1029,329370,,foundation,Dairy,Cheese
+Feta cheese,"Cheese, feta, whole milk, crumbled",1019,2259796,,foundation,Dairy,Cheese
+Cottage cheese,"Cottage cheese, full fat, large or small curd",1012,2346384,,foundation,Dairy,Cheese
+Cheddar cheese,"Cheese, cheddar",1009,328637,,foundation,Dairy,Cheese
+Brazilian nuts,Brazil nuts,,2707492,42102000,survey,Plant-based,Nut
+Prawn,"Shrimp, baked or broiled, coated",,2706365,26319160,survey,Animal,Fish
+Lamb chop,"Lamb, chop",,2705906,23101000,survey,Animal,Red
+Pork chop,"Pork, chop, lean and fat eaten",,2705867,22101010,survey,Animal,Red
+Goat's cheese,"Cheese, goat",,2705716,14104700,survey,Dairy,Cheese
+Brie,"Cheese, Brie",,2705708,14103020,survey,Dairy,Cheese
+Camembert,"Cheese, Camembert",,2705707,14103010,survey,Dairy,Cheese
+Blue cheese,"Cheese, Blue or Roquefort",,2705705,14101010,survey,Dairy,Cheese
+Beef burger,"Beef burgers, beef",,2673232,,NA,Animal,Red
+Halloumi cheese,Halloumi cheese,,2071270,,NA,Dairy,Cheese
+Garden peas,Garden peas,,2038919,,NA,Plant-based,Vegetable

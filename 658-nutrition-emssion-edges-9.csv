@@ -1,0 +1,43 @@
+source,target,weight,weight_legend,protein_source,protein_target,sum_protein
+Almonds,Yogurt,1,Acceptable pairing or complementary nutrition,21.4,3.8,25.2
+Bacon,Egg,3,Strong classic combination,40.9,12.4,53.3
+Beans,Butter,3,Strong classic combination,26.8,1,27.8
+Beans,Pork sausage,2,Good synergy or common usage,26.8,18.2,45
+Beans,Chicken wing,1,Acceptable pairing or complementary nutrition,26.8,23.4,50.2
+Beef steak,Butter,2,Good synergy or common usage,18.7,1,19.7
+Blue cheese,Walnuts,3,Strong classic combination,21.4,14.6,36
+Brie,Walnuts,3,Strong classic combination,20.8,14.6,35.4
+Butter,Mushroom,3,Strong classic combination,1,2.8,3.8
+Camembert,Walnuts,2,Good synergy or common usage,19.8,14.6,34.4
+Cashews,Tofu,1,Acceptable pairing or complementary nutrition,17.4,17.3,34.7
+Cheddar cheese,Beef burger,3,Strong classic combination,23.3,20.4,43.7
+Cheddar cheese,Egg,2,Good synergy or common usage,23.3,12.4,35.7
+Chia seeds,Yogurt,1,Acceptable pairing or complementary nutrition,17,3.8,20.8
+Chicken breast,Mushroom,3,Strong classic combination,22.5,2.8,25.2
+Chicken breast,Quinoa,2,Good synergy or common usage,22.5,14.1,36.6
+Chicken thigh,Yogurt,3,Strong classic combination,18.6,3.8,22.4
+Chicken thigh,Butter,2,Good synergy or common usage,18.6,1,19.6
+Cod,Butter,2,Good synergy or common usage,16.1,1,17.1
+Cottage cheese,Popcorn,3,Strong classic combination,11.6,12.9,24.5
+Cottage cheese,Yogurt,2,Good synergy or common usage,11.6,3.8,15.4
+Feta cheese,Kale,3,Strong classic combination,19.7,2.9,22.6
+Garden peas,Butter,1,Acceptable pairing or complementary nutrition,4.7,1,5.7
+Goat's cheese,Walnuts,2,Good synergy or common usage,21.6,14.6,36.2
+Mozzarella cheese,Egg,2,Good synergy or common usage,23.7,12.4,36.1
+Parmesan cheese,Butter,3,Strong classic combination,29.6,1,30.6
+Parmesan cheese,Ricotta cheese,2,Good synergy or common usage,29.6,7.8,37.4
+Parmesan cheese,Lentils,1,Acceptable pairing or complementary nutrition,29.6,23.6,53.2
+Peanuts,Popcorn,3,Strong classic combination,23.2,12.9,36.1
+Popcorn,Yogurt,1,Acceptable pairing or complementary nutrition,12.9,3.8,16.7
+Pork chop,Mushroom,2,Good synergy or common usage,27,2.8,29.7
+Pork sausage,Egg,3,Strong classic combination,18.2,12.4,30.6
+Prawn,Butter,2,Good synergy or common usage,15.6,1,16.6
+Pumpkin seeds,Chickpeas,1,Acceptable pairing or complementary nutrition,29.9,21.3,51.2
+Pumpkin seeds,Quinoa,1,Acceptable pairing or complementary nutrition,29.9,14.1,44
+Quinoa,Kale,1,Acceptable pairing or complementary nutrition,14.1,2.9,17
+Salmon,Butter,3,Strong classic combination,20.3,1,21.3
+Salmon,Quinoa,2,Good synergy or common usage,20.3,14.1,34.4
+Sunflower seeds,Popcorn,1,Acceptable pairing or complementary nutrition,18.9,12.9,31.8
+Tofu,Mushroom,3,Strong classic combination,17.3,2.8,20
+Tofu,Kale,2,Good synergy or common usage,17.3,2.9,20.2
+Tofu,Egg,1,Acceptable pairing or complementary nutrition,17.3,12.4,29.7
